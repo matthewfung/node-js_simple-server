@@ -1,0 +1,10 @@
+img{
+	display: inline-block;
+	width: 250px;
+	height: 250px;
+}
+a{
+	font-size: 30px;
+	font-weight: bold;
+	display: block;
+}
